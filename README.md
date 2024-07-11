@@ -1,16 +1,26 @@
-## Hi there 👋
+🦝 Profile
+---
+- University Major : Japanese 
 
-<!--
-**hyejoony/hyejoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Education
+---
+- SSAFY(Samsung SW Academy For Youth) 2024.07.02~
 
-Here are some ideas to get you started:
+💭 Blog
+---
+- [welcome!](https://joonycony.tistory.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Study note
+---
+- Alogorithms :
+  
+- Development :
+  
+👨‍💻 Projects
+---
+
+✔ Skills
+---
+- <img src="https://github.com/hyejoony/SSAFY/assets/137747849/391e77f3-2390-4557-ab0b-9d31095c6991" width="70" height="35"/>
+
+
