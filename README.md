@@ -1,26 +1,18 @@
 🦝 Profile
 ---
-- University Major : Japanese 
+- 전공 : 일본어
+- 일 경험 : 콘텐츠, 기업 브랜딩 마케팅, 데이터분석, AI 모델링
 
 ✨ Education
 ---
-- SSAFY(Samsung SW Academy For Youth) 2024.07.02~
+- 삼성 청년 SW 아카데미(SSAFY) 2024.07 ~ 2025.06
 
-💭 Blog
----
-- [welcome!](https://joonycony.tistory.com/)
-
-🧠 Study note
----
-- Alogorithms :
-  
-- Development :
-  
 👨‍💻 Projects
 ---
+- SSAFY 공모전 우수상 수상, 개인 맞춤형 오픽 학습 앱 2025.03 ~ 2025.04
+- 대상 청정원 간장 발효 공정 데이터 분석 및 예측 모델링(DX) 2024.11 ~ 2025.01
+- 국립공원공단 현장 서비스화, 재난안전사고 예측 플랫폼 개발 2024.02 ~ 2024.05 
+- 국립공원공단 이사장상 수상, 원클릭 자연변화 탐지 모니터링 플랫폼 개발 2024.10 ~ 2024.12
 
-✔ Skills
----
-- <img src="https://github.com/hyejoony/SSAFY/assets/137747849/391e77f3-2390-4557-ab0b-9d31095c6991" width="70" height="35"/>
 
 
